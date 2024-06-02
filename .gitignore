@@ -2,6 +2,7 @@
 client/package-lock.json
 client/node_modules
 client/.vscode
+client/dist
 server/target
 server/HELP.md
 !.mvn/wrapper/maven-wrapper.jar
