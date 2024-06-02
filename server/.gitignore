@@ -1,20 +1,10 @@
-### Builds ###
-client/package-lock.json
-client/node_modules
-client/.vscode
-server/target
-server/HELP.md
+HELP.md
+target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### IntelliJ IDEA ###
-*.iws
-*.iml
-*.ipr
-.idea
-
-### Eclipse ###
+### STS ###
 .apt_generated
 .classpath
 .factorypath
@@ -22,6 +12,12 @@ server/HELP.md
 .settings
 .springBeans
 .sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
 
 ### NetBeans ###
 /nbproject/private/
@@ -35,6 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### Mac OS ###
-.DS_Store
